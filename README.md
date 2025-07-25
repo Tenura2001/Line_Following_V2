@@ -1,6 +1,6 @@
 # 🚗 Line Following Robot Kit – Project-Based Learning Platform
 
-![Line Following Robot](images/1.jpeg) <!-- Replace with your actual image path -->
+![Line Following Robot](image/1.jpeg) <!-- Replace with your actual image path -->
 
 The **Line Following Robot Kit** is a foundational learning platform developed to promote **project-based education** in **Embedded Systems**, **IoT**, and **Autonomous Robotics**. This kit provides an applied learning experience through real-time control, sensor integration, and intelligent feedback systems using the **ESP32** microcontroller.
 
@@ -17,7 +17,7 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 
 ---
 
-## 🔑 Core Features
+##  Core Features
 
 - 🔌 **Controller:** ESP32 (Wi-Fi + Bluetooth capable)
 - 🧭 **Navigation:** 8-channel QTR IR sensor array for line tracking
@@ -28,7 +28,7 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 
 ---
 
-## 📦 Kit Components
+##  Kit Components
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
@@ -41,28 +41,6 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 | Robot Chassis       | Base structure for assembly        |
 | Jumper Wires        | Electrical connectivity            |
 
----
 
-## 🛠️ Assembly & Setup Instructions
 
-1. **Mechanical Assembly**  
-   Mount motors, wheels, caster, and sensor to the robot chassis.
-
-2. **Wiring & Electronics**  
-   Connect the ESP32 to the IR sensor array, motor driver, and OLED display (if used). Refer to the diagram below for correct pin configuration.
-
-3. **Upload Firmware**  
-   Flash the Arduino/PlatformIO code to the ESP32 using USB. Ensure the correct board and port are selected.
-
-4. **PID Tuning**  
-   Modify `kP`, `kI`, and `kD` parameters in the firmware to achieve optimal performance on your track.
-
-5. **Testing**  
-   Place the robot on a line-following track and observe behavior. Fine-tune parameters as needed.
-
-![Wiring Diagram](images/wiring_diagram.png) <!-- Replace with actual wiring image -->
-
----
-
-## 📁 Repository Structure
 
