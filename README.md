@@ -1,6 +1,6 @@
 # 🚗 Line Following Robot Kit – Project-Based Learning Platform
 
-![Line Following Robot](images/1.jpg) <!-- Replace with your actual image path -->
+![Line Following Robot](images/1.jpeg) <!-- Replace with your actual image path -->
 
 The **Line Following Robot Kit** is a foundational learning platform developed to promote **project-based education** in **Embedded Systems**, **IoT**, and **Autonomous Robotics**. This kit provides an applied learning experience through real-time control, sensor integration, and intelligent feedback systems using the **ESP32** microcontroller.
 
