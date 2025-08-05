@@ -60,7 +60,7 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 ![Robot Stage 2](image/car/back_view.jpg)
 
 ### Testing Phase
-![Robot Stage 3](image/car/side_view.jpg)
+![Robot Stage 3](image/car/Side_view.jpg)
 
 ### Final Result
 ![Robot Complete](image/car/Top_view.jpg)
