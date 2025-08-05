@@ -1,6 +1,6 @@
 # 🚗 Line Following Robot Kit – Project-Based Learning Platform
 
-![Line Following Robot](image/1.jpeg) <!-- Replace with your actual image path -->
+![Line Following Robot](image/pcb/1.jpeg)
 
 The **Line Following Robot Kit** is a foundational learning platform developed to promote **project-based education** in **Embedded Systems**, **IoT**, and **Autonomous Robotics**. This kit provides an applied learning experience through real-time control, sensor integration, and intelligent feedback systems using the **ESP32** microcontroller.
 
@@ -17,7 +17,7 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 
 ---
 
-##  Core Features
+## ⚡ Core Features
 
 - 🔌 **Controller:** ESP32 (Wi-Fi + Bluetooth capable)
 - 🧭 **Navigation:** 8-channel QTR IR sensor array for line tracking
@@ -28,7 +28,16 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 
 ---
 
-##  Kit Components
+## 🛠️ Hardware Design
+
+### Custom PCB
+![PCB Design](image/pcb/2.jpeg)
+
+![PCB Assembly](image/pcb/3.jpeg)
+
+---
+
+## 📦 Kit Components
 
 | Component           | Description                        |
 |---------------------|------------------------------------|
@@ -41,6 +50,17 @@ This project is a part of my ongoing initiative to develop accessible, hands-on 
 | Robot Chassis       | Base structure for assembly        |
 | Jumper Wires        | Electrical connectivity            |
 
+---
 
+## 🚀 Robot Development
 
+### Assembly Process
+![Robot Stage 1](image/car/IR_array.jpg)
 
+![Robot Stage 2](image/car/back_view.jpg)
+
+### Testing Phase
+![Robot Stage 3](image/car/side_view.jpg)
+
+### Final Result
+![Robot Complete](image/car/Top_view.jpg)
